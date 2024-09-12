@@ -13,10 +13,13 @@ I'm just getting started with this, so don't expect too much as I have to learn 
 Bit of a learning-curve!
 
 
+JS Stuff
 
 ```javascript
 console.log('hello world);
 ```
+
+Bash stuff
 
 ```bash
 sudo apt-update && sudo apt-upgrade
