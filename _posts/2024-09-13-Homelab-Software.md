@@ -4,7 +4,7 @@ I have acquired these over a number of years and I use most of them on a daily (
 Most of the services are self-hosted in Virtual Machines in Proxmox, spread over a primary NUC, a secondary NUC and a development NUC. The FreePBX install has it's own, dedicated NUC.
 They are in no particular order.
 
-- Uptime Kuma (https://uptime.kuma.pet/)
+- [Uptime Kuma] (https://uptime.kuma.pet/)
 - Webmin (https://webmin.com/)
 - Cockpit (https://cockpit-project.org/)
 - Proxmox (https://www.proxmox.com/en/)
