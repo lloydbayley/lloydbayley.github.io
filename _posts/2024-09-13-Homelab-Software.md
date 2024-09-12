@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Homelab Software"
+---
 
 This is a list of the software/services that I run in my homelab.
 
