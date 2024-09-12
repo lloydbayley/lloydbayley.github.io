@@ -1,5 +1,7 @@
 
 This is a list of the software/services that I run in my homelab.
+I have acquired these over a number of years and I use most of them on a daily (weekly) basis.
+They are in no particular order.
 
 - Uptime Kuma
 - Webmin
