@@ -1,6 +1,4 @@
 
-# Homelab Software/Services
-
 This is a list of the software/services that I run in my homelab.
 
 - Uptime Kuma
