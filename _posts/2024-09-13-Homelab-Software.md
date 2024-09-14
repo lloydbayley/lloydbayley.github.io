@@ -1,6 +1,6 @@
 ---
 categories: [software, homelab services]
-tags: [software, homelab services]     # TAG names should always be lowercase
+tags: [software]     # TAG names should always be lowercase
 ---
 
 This is a list of the software/services that I run in my homelab.
