@@ -129,3 +129,13 @@ echo "." >> $TMPFILE
 /usr/sbin/sendmail $1 < $TMPFILE
 rm $TMPFILE
 ```
+
+## Sound Files
+
+These can be found here:
+[Lenny Sound Files](https://github.com/lloydbayley/lloydbayley.github.io/blob/main/files/lenny.tgz)
+
+I have them in /var/lib/asterisk/sounds/itslenny
+Make sure they are owned by asterisk and have the appropriate permissions. (Probably 664)
+
+Have fun. It's been MANY years since I fiddled with this, do dumenting it was a bit tricky but I think it will make sense.
