@@ -138,4 +138,4 @@ These can be found here:
 I have them in /var/lib/asterisk/sounds/itslenny
 Make sure they are owned by asterisk and have the appropriate permissions. (Probably 664)
 
-Have fun. It's been MANY years since I fiddled with this, do dumenting it was a bit tricky but I think it will make sense.
+Have fun. It's been MANY years since I fiddled with this, so documenting it was a bit tricky but I think it will make sense.
