@@ -8,30 +8,29 @@ I have acquired these over a number of years and I use most of them on a daily (
 Most of the services are self-hosted in Virtual Machines in Proxmox, spread over a primary NUC, a secondary NUC and a development NUC. The FreePBX install has it's own, dedicated NUC.
 They are in no particular order.
 
-- [Uptime Kuma](https://uptime.kuma.pet/)
-- [Webmin](https://webmin.com/)
-- [Cockpit](https://cockpit-project.org/)
-- [Proxmox](https://www.proxmox.com/en/)
-- [Portainer CE](https://www.portainer.io/)
-- [Node-Red](https://nodered.org/)
-- [Ansible](https://www.ansible.com/)
-- [Ansible Semaphore UI](https://semaphoreui.com/)
-- [Netbook.xyz](https://netboot.xyz/)
-- [InfluxDB](https://www.influxdata.com/downloads/)
-- [Grafana](https://grafana.com/get/?tab=self-managed)
-- [Scrypted](https://www.scrypted.app/)
-- [ChangeDetection](https://changedetection.io/)
-- [WebSVN](https://websvnphp.github.io/)
-- [PHPSysinfo](https://phpsysinfo.github.io/phpsysinfo/)
-- [Dokuwiki](https://www.dokuwiki.org/dokuwiki)
-- [MRTG](https://oss.oetiker.ch/mrtg/)
-- [Pi-Hole](https://pi-hole.net/)
-- [Paperless-ngx](https://docs.paperless-ngx.com/)
+- <a href="https://uptime.kuma.pet/" target="_blank">Uptime Kuma</a>
+- <a href="https://webmin.com/" target="_blank">Webmin</a>
+- <a href="https://cockpit-project.org/" target="_blank">Cockpit</a>
+- <a href="https://www.proxmox.com/en/" target="_blank">Proxmox</a>
+- <a href="https://www.portainer.io/" target="_blank">Portainer CE</a>
+- <a href="https://nodered.org/" target="_blank">Node-Red</a>
+- <a href="https://www.ansible.com/" target="_blank">Ansible</a>
+- <a href="https://semaphoreui.com/" target="_blank">Ansible Semaphore UI</a>
+- <a href="https://netboot.xyz/" target="_blank">Netbook.xyz</a>
+- <a href="https://www.influxdata.com/downloads/" target="_blank">InfluxDB</a>
+- <a href="https://grafana.com/get/?tab=self-managed" target="_blank">Grafana</a>
+- <a href="https://www.scrypted.app/" target="_blank">Scrypted</a>
+- <a href="https://changedetection.io/" target="_blank">ChangeDetection</a>
+- <a href="https://websvnphp.github.io/" target="_blank">WebSVN</a>
+- <a href="https://phpsysinfo.github.io/phpsysinfo/" target="_blank">PHPSysinfo</a>
+- <a href="https://www.dokuwiki.org/dokuwiki" target="_blank">Dokuwiki</a>
+- <a href="https://oss.oetiker.ch/mrtg/" target="_blank">MRTG</a>
+- <a href="https://pi-hole.net/" target="_blank">Pi-Hole</a>
+- <a href="https://docs.paperless-ngx.com/" target="_blank">Paperless-ngx</a>
 - <a href="https://readeck.org/" target="_blank">Readeck</a>
-- [NUT Server](https://networkupstools.org/)
-- [TasmoBackup](https://github.com/danmed/TasmoBackupV1)
-- [TasmoAdmin](https://tasmota.github.io/docs/TasmoAdmin/)
-- [Nginx Proxy Manager](https://nginxproxymanager.com/)
-- [Beszel](https://noted.lol/beszel/) (Testing...)
-- [FreePBX (Asterisk) Telephony](https://www.freepbx.org/)
-- 
+- <a href="https://networkupstools.org/" target="_blank">NUT Server</a>
+- <a href="https://github.com/danmed/TasmoBackupV1" target="_blank">TasmoBackup</a>
+- <a href="https://tasmota.github.io/docs/TasmoAdmin/" target="_blank">TasmoAdmin</a>
+- <a href="https://nginxproxymanager.com/" target="_blank">Nginx Proxy Manager</a>
+- <a href="https://noted.lol/beszel/" target="_blank">Beszel</a>
+- <a href="Asterisk" target="_blank">FreePBX (Asterisk) Telephony</a>
