@@ -34,3 +34,5 @@ They are in no particular order.
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)
 - [Beszel](https://noted.lol/beszel/) (Testing...)
 - [FreePBX (Asterisk) Telephony](https://www.freepbx.org/)
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
+
