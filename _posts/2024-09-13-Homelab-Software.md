@@ -33,4 +33,4 @@ They are in no particular order.
 - <a href="https://tasmota.github.io/docs/TasmoAdmin/" target="_blank">TasmoAdmin</a>
 - <a href="https://nginxproxymanager.com/" target="_blank">Nginx Proxy Manager</a>
 - <a href="https://noted.lol/beszel/" target="_blank">Beszel</a>
-- <a href="Asterisk" target="_blank">FreePBX (Asterisk) Telephony</a>
+- <a href="https://www.freepbx.org/" target="_blank">FreePBX (Asterisk) Telephony</a>
