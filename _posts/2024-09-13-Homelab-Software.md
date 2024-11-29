@@ -27,6 +27,7 @@ They are in no particular order.
 - [MRTG](https://oss.oetiker.ch/mrtg/)
 - [Pi-Hole](https://pi-hole.net/)
 - [Paperless-ngx](https://docs.paperless-ngx.com/)
+- [Readeck](https://readeck.org/)
 - [NUT Server](https://networkupstools.org/)
 - [TasmoBackup](https://github.com/danmed/TasmoBackupV1)
 - [TasmoAdmin](https://tasmota.github.io/docs/TasmoAdmin/)
