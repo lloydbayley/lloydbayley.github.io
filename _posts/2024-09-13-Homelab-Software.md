@@ -27,12 +27,11 @@ They are in no particular order.
 - [MRTG](https://oss.oetiker.ch/mrtg/)
 - [Pi-Hole](https://pi-hole.net/)
 - [Paperless-ngx](https://docs.paperless-ngx.com/)
-- [Readeck](https://readeck.org/)
+- <a href="https://readeck.org/" target="_blank">Readeck</a>
 - [NUT Server](https://networkupstools.org/)
 - [TasmoBackup](https://github.com/danmed/TasmoBackupV1)
 - [TasmoAdmin](https://tasmota.github.io/docs/TasmoAdmin/)
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)
 - [Beszel](https://noted.lol/beszel/) (Testing...)
 - [FreePBX (Asterisk) Telephony](https://www.freepbx.org/)
-- <a href="http://example.com/" target="_blank">Hello, world!</a>
-
+- 
