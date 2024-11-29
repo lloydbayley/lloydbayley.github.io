@@ -5,11 +5,10 @@ tags: [software]     # TAG names should always be lowercase
 ---
 
 
-
-[![FreePBX](https://www.freepbx.org/wp-content/uploads/Sangoma_FreePBX_Logo_RGB_hori-pos-e1588854523908.png)](https://www.freepbx.org "FreePBX")
-
 I thought I'd post a clever routine I've been running for years and years now.
 It's called "It's Lenny"
+
+[![FreePBX](https://www.freepbx.org/wp-content/uploads/Sangoma_FreePBX_Logo_RGB_hori-pos-e1588854523908.png)](https://www.freepbx.org "FreePBX")
 
 It's basically a set of recordings that plays one after another in-between bursts of talking from the caller.
 
