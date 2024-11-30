@@ -1,6 +1,8 @@
 ---
 categories: [software, homelab services]
 tags: [software]     # TAG names should always be lowercase
+image:
+ path: /assets/images/Homelab Image.png
 ---
 
 This is a list of the software/services that I run in my homelab.
