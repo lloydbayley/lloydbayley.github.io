@@ -2,6 +2,8 @@
 title: "FreePBX (Asterisk) Lenny"
 categories: [software, freepbx, voip, asterisk]
 tags: [software]     # TAG names should always be lowercase
+image:
+ path: /assets/images/Lenny Post.png
 ---
 
 I thought I'd post a clever routine I've been running for years and years now.
