@@ -6,7 +6,6 @@ image:
  path: /assets/images/Lenny Post.png
 ---
 
-
 I thought I'd post a clever routine I've been running for years and years now.
 It's called "It's Lenny"
 
