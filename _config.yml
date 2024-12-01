@@ -121,7 +121,7 @@ comments:
   giscus:
     repo: lloydbayley/lloydbayley.github.io # <gh-username>/<repo>
     repo_id: R_kgDOMwxeRQ
-    category: Announcements
+    category: Comments
     category_id: DIC_kwDOMwxeRc4CkuUG
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
