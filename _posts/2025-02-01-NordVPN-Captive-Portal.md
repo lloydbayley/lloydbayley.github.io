@@ -6,7 +6,6 @@ image:
  path: /assets/images/NordVPN.png
 ---
 
-### Captive Portals &amp; NordVPN
 
 I've discovered a solution to a problem that was right in front of me the whole time and due to a lack of reading, I unintentionally caused the problem myself.
 
