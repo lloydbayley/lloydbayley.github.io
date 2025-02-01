@@ -2,6 +2,8 @@
 title: "NordVPN & Captive Portals"
 categories: [software, mac apps]
 tags: [software]     # TAG names should always be lowercase
+image:
+ path: /assets/images/NordVPN.png
 ---
 
 ### Captive Portals & NordVPN
