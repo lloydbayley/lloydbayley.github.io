@@ -13,7 +13,7 @@ It's basically a set of recordings that plays one after another in-between burst
 
 In-essence, it's something that you can blacklist telemarketers to and they can talk to him all day long if they like (Well, a good 40mins...ish)
 
-It used to be hosted at a SIP server online but it went offline and people sarted hosting it themselves and the audio files went into distribution. It's not clear as to any copyright or use terms.
+It used to be hosted at a SIP server online but it went offline and people started hosting it themselves and the audio files went into distribution. It's not clear as to any copyright or use terms.
 
 This is NOT my work on the sound files and no copyright is meant to be infringed.
 
