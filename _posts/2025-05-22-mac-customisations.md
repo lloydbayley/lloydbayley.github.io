@@ -37,15 +37,15 @@ In Settings, scroll down on the left-hand menu, select Keyboard. In the right-ha
 
 ## Control-Zoom
 
-Good for when your eyesight is not quite what it was or if you need to zoom in on something where it won't let you because the website thinks it knows best!
+Good for when your eyesight is not quite what it was or if you need to zoom in on something where it won't let you because the website thinks it knows best or if pinch to zoom won't do it.
 Simply hold Control down and scroll up and down with the trackpad. The best bit is, that it will centre on where your cursor is.
 You don't HAVE to use Control, you can also use Option or Command - whatever works for you.
 
-In Settings, scroll down on the left-hand menu, select Accessibility.
+In Settings, scroll down on the left-hand menu, select Accessibility and click on Zoom in the right-hand pane.
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Ctrl-Zoom 1.png)
 
-Next, in the right-hand pane, make sure "Use scroll gesture with modifier keys to zoom" is turned on and then select which key you want to use just below.
+Next, in that right-hand pane, make sure "Use scroll gesture with modifier keys to zoom" is turned on and then select which key you want to use just below.
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Ctrl-Zoom 2.png)
 
@@ -66,3 +66,23 @@ In the right-hand pane, scroll down and click on Pointer Control. On the right-h
 Turn on the "Use trackpad for dragging" option and then you can change the Dragging Style to Three-Finger Drag or another one of your choice.
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD3.png)
+
+
+## Shake To Locate
+
+This is a great feature to have not just for the elderly or people with eyesight problems.
+It's also great for when you have multiple screens connected to your Mac.
+Sometimes, it all the traversing around the screen or external screens, you can (beleive it or not), lose the mouse pointer and it can take a few seconds to find it.
+
+This feature will momentarily zoom the pointer to a greater magnification so it sticks out on the screen when you move the mouse quickly back and forth or just move your finger quickly back and forth on the touchpad.
+
+In Settings, scroll down on the left-hand menu, select Accessibility and click on Display in the right-hand pane.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Shake To Locate 1.png)
+
+Now, you can switch on "Shake mouse pointer to locate".
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Shake To Locate 2.png)
+
+Also, just below that, you can also set the pointer size if the normal pointer is too small.
+
