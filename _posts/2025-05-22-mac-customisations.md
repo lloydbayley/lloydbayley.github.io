@@ -7,7 +7,7 @@ image:
 ---
 
 I thought I'd share some of my customisations that I do to my Macs to make life a little easier.
-You may not like/use them all, or even any of them, however, they may come in handy for some!
+You may not like/use them all or even any of them, however, they may come in handy for some!
 
 ## Tap To Click (Touchpad)
 
@@ -23,7 +23,7 @@ This is also the screen where you can set the secondary-click or "right-click" t
 
 ## Dock Magnification
 
-This is not for everyone but I've found that having magnifiction turned on for the dock at the bottom just gives a better indication of what app I'm about to click on. This is completely a personal preference and you will either love it or hate it.
+This is not for everyone but I've found that having magnification turned on for the dock at the bottom just gives a better indication of what app I'm about to click on. This is completely a personal preference and you will either love it or hate it.
 
 In Settings, scroll down on the left-hand menu, select Desktop & Dock. On the right-hand pane, you will see Magnification at the top-right. You can play with the setting here.
 
@@ -31,7 +31,9 @@ In Settings, scroll down on the left-hand menu, select Desktop & Dock. On the ri
 
 ## Quick Dictation "Hotkey"
 
-In Settings, scroll down on the left-hand menu, select Keyboard. In the right-hand pane, scroll down until you see Dictation. Turn that on and then you can set the "hotkey" where it says "Shortcut". It's a nice feature to have when you get sick of typing etc. Double-Tap the Fn key and away you go! (You will need to be in a place where you can type at an insertion-point, of course.)
+ This is a nice feature to have when you get sick of typing etc. Double-Tap the Fn key and away you go! (You will need to be in a place where you can type at an insertion-point, of course.)
+
+In Settings, scroll down on the left-hand menu, select Keyboard. In the right-hand pane, scroll down until you see Dictation. Turn that on and then you can set the "hotkey" where it says "Shortcut".
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Double-Tap Fn for Dictation.png)
 
@@ -70,9 +72,9 @@ Turn on the "Use trackpad for dragging" option and then you can change the Dragg
 
 ## Shake To Locate
 
-This is a great feature to have not just for the elderly or people with eyesight problems.
+This is a great feature to have, not just for the elderly or people with eyesight problems.
 It's also great for when you have multiple screens connected to your Mac.
-Sometimes, it all the traversing around the screen or external screens, you can (beleive it or not), lose the mouse pointer and it can take a few seconds to find it.
+Sometimes, in all the traversing around the screen or external screens, you can (believe it or not), lose the mouse pointer and it can take a few seconds to find it.
 
 This feature will momentarily zoom the pointer to a greater magnification so it sticks out on the screen when you move the mouse quickly back and forth or just move your finger quickly back and forth on the touchpad.
 
