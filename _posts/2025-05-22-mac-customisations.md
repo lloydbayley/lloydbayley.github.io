@@ -66,4 +66,3 @@ In the right-hand pane, scroll down and click on Pointer Control. On the right-h
 Turn on the "Use trackpad for dragging" option and then you can change the Dragging Style to Three-Finger Drag or another one of your choice.
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD3.png)
-
