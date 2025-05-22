@@ -9,7 +9,7 @@ image:
 I thought I'd share some of my customisations that I do to my Macs to make life a little easier.
 You may not like/use them all, or even any of them, however, they may come in handy for some!
 
-## Tap To Click (Touch Pad)
+## Tap To Click (Touchpad)
 
 I've found that being able to just tap the touchpad instead of pressing to click, is very handy.
 If you didn't know about it, this is where to find it!
@@ -34,4 +34,36 @@ In Settings, scroll down on the left-hand menu, select Desktop & Dock. On the ri
 In Settings, scroll down on the left-hand menu, select Keyboard. In the right-hand pane, scroll down until you see Dictation. Turn that on and then you can set the "hotkey" where it says "Shortcut". It's a nice feature to have when you get sick of typing etc. Double-Tap the Fn key and away you go! (You will need to be in a place where you can type at an insertion-point, of course.)
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Double-Tap Fn for Dictation.png)
+
+## Control-Zoom
+
+Good for when your eyesight is not quite what it was or if you need to zoom in on something where it won't let you because the website thinks it knows best!
+Simply hold Control down and scroll up and down with the trackpad. The best bit is, that it will centre on where your cursor is.
+You don't HAVE to use Control, you can also use Option or Command - whatever works for you.
+
+In Settings, scroll down on the left-hand menu, select Accessibility.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Ctrl-Zoom 1.png)
+
+Next, in the right-hand pane, make sure "Use scroll gesture with modifier keys to zoom" is turned on and then select which key you want to use just below.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Ctrl-Zoom 2.png)
+
+You can also fiddle around with the Zoom Style. There are a few different options and you will soon find the one that you like.
+
+## Three-Finger Drag (Touchpad)
+
+Rather than having to tap/click and hold to drag, I have another feature turned on called Three-Finger Drag. It's very handy to be able to just move windows/text by placing three fingers on the touchpad.
+
+In Settings, scroll down on the left-hand menu, select Accessibility.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD1.png)
+
+In the right-hand pane, scroll down and click on Pointer Control. On the right-hand side, you will see an option called "Trackpad Options...". Click on that.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD2.png)
+
+Turn on the "Use trackpad for dragging" option and then you can change the Dragging Style to Three-Finger Drag or another one of your choice.
+
+![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD3.png)
 
