@@ -116,7 +116,7 @@ TMPFILE=/var/spool/asterisk/tmp/$5
 
 echo "TO: "$1 >> $TMPFILE
 echo "FROM: asterisk@yourdomain.com" >> $TMPFILE
-echo "Subject: New Lenny call recieved " >> $TMPFILE
+echo "Subject: New Lenny call received " >> $TMPFILE
 echo ""
 echo "Just wanted to let you know, you received a new call for Lenny." >> $TMPFILE
 
