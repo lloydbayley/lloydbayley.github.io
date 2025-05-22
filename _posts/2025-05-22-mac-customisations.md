@@ -14,5 +14,8 @@ You may not like/use them all, or even any of them, however, they may come in ha
 I've found that being able to just tap the touchpad instead of pressing to click, is very handy.
 If you didn't know about it, this is where to find it!
 
+In Settings, scroll down on the left-hand menu and select Trackpad and you will see the screen below.
+There, you can switch on Tap To Click
+
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Tap To Click.png)
 
