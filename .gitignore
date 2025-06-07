@@ -1,3 +1,7 @@
+## OS specific ########
+.DS_Store
+.fuse_hidden*
+
 # Bundler cache
 .bundle
 vendor
