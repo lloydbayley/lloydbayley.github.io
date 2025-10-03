@@ -46,8 +46,8 @@ Accolades:
 - “Best package tracking apps for iPhone and iPad in 2020" - iMore
 
 Links:
-- App Store (iOS, watchOS, visionOS): [https://itunes.apple.com/app/parcel-delivery-tracking/id375589283](https://itunes.apple.com/app/parcel-delivery-tracking/id375589283){:target="_blank"}
-- Mac App Store: [https://itunes.apple.com/app/parcel-delivery-tracking/id639968404](https://itunes.apple.com/app/parcel-delivery-tracking/id639968404){:target="_blank"}
+- App Store (iOS, watchOS, MacOS, visionOS): [https://apps.apple.com/au/app/parcel/id375589283](https://apps.apple.com/us/app/parcel/id375589283){:target="_blank"}
+
 
 Developer: Ivan Pavlov\
 Location: Brisbane, Australia
