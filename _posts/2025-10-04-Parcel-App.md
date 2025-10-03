@@ -52,10 +52,9 @@ Links:
 Developer: Ivan Pavlov\
 Location: Brisbane, Australia
 
-Contact Email: <a href="mailto:ivan.pavlov@me.com">ivan.pavlov@me.com</a>
 
 Contact Email: [ivan.pavlov@me.com](mailto:ivan.pavlov@me.com)
 
 Mastodon: [@parcel](https://mastodon.social/@parcel){:target="_blank"}
 
-Support Email: <a href="mailto:support@parcelapp.net?subject=Parcel%20Support">support@parcelapp.net
+Support Email: [support@parcelapp.net}(support@parcelapp.net?subject=Parcel%20Support)
