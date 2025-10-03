@@ -38,18 +38,18 @@ Features:
 Business model:
 Free to use with limited features; to track more than 3 deliveries or to activate push notifications customers are offered a subscription ($5 per year).
 
-Accolades:
-Short demo by Craig Federighi in WWDC 2021 Keynote (<a href="https://youtu.be/0TD96VTf0Xs?t=2365" target="_blank">https://youtu.be/0TD96VTf0Xs?t=2365</a>
-“Editor’s Choice” - Apple, the Mac App Store
-"The Best Package Tracking App for iOS and macOS” - Wirecutter
-“5 of the best package tracking apps for iOS” - cnet
-“Best package tracking apps for iPhone and iPad in 2020" - iMore
+Accolades:  
+- Short demo by Craig Federighi in WWDC 2021 Keynote (<a href="https://youtu.be/0TD96VTf0Xs?t=2365" target="_blank">https://youtu.be/0TD96VTf0Xs?t=2365</a>
+- “Editor’s Choice” - Apple, the Mac App Store
+- "The Best Package Tracking App for iOS and macOS” - Wirecutter
+- “5 of the best package tracking apps for iOS” - cnet
+- “Best package tracking apps for iPhone and iPad in 2020" - iMore
 
 Links:
-App Store (iOS, watchOS, visionOS): <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id375589283" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id375589283</a>
-Mac App Store: <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id639968404" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id639968404</a>
+- App Store (iOS, watchOS, visionOS): <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id375589283" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id375589283</a>
+- Mac App Store: <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id639968404" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id639968404</a>
 
-Developer: Ivan Pavlov
+Developer: Ivan Pavlov  
 Location: Brisbane, Australia
 Contact Email: ivan.pavlov@me.com
 
