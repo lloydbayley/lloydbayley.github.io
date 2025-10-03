@@ -49,12 +49,10 @@ Links:
 - App Store (iOS, watchOS, visionOS): <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id375589283" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id375589283</a>
 - Mac App Store: <a href="https://itunes.apple.com/app/parcel-delivery-tracking/id639968404" target="_blank">https://itunes.apple.com/app/parcel-delivery-tracking/id639968404</a>
 
-Developer: Ivan Pavlov
-
-Location: Brisbane, Australia
+Developer: Ivan Pavlov\
+Location: Brisbane, Australia\
 
 Contact Email: ivan.pavlov@me.com
-
 
 Twitter: @parcel_app
 
