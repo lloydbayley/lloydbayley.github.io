@@ -54,6 +54,6 @@ Location: Brisbane, Australia
 
 Contact Email: <a href="mailto:ivan.pavlov@me.com">ivan.pavlov@me.com</a>
 
-Mastodon: [@parcel](https://mastodon.social/@parcel)
+Mastodon: [@parcel](https://mastodon.social/@parcel){:target="_blank"}
 
 Support Email: <a href="mailto:support@parcelapp.net?subject=Parcel%20Support">support@parcelapp.net
