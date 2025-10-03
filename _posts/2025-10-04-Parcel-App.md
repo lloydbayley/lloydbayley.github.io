@@ -29,17 +29,17 @@ Here are the basic details but go to the website for all the info you need. (<a 
 Parcel is a package tracker designed specifically for iOS and Mac. It leverages the latest available technologies on Apple platforms to make tracking deliveries enjoyable.
 
 Features:
-• support for more than 300 carriers around the world
-• push notifications on delivery status updates
-• barcode scanner
-• share extension to add deliveries from other apps
-• support for emails with tracking information forwarded to a unique customer email address
+- support for more than 300 carriers around the world
+- push notifications on delivery status updates
+- barcode scanner
+- share extension to add deliveries from other apps
+- support for emails with tracking information forwarded to a unique customer email address
 
 Business model:
 Free to use with limited features; to track more than 3 deliveries or to activate push notifications customers are offered a subscription ($5 per year).
 
 Accolades:
-Short demo by Craig Federighi in WWDC 2021 Keynote (<a href="https://youtu.be/0TD96VTf0Xs?t=2365, 39:25" target="_blank") https://youtu.be/0TD96VTf0Xs?t=2365, 39:25</a>
+Short demo by Craig Federighi in WWDC 2021 Keynote (<a href="https://youtu.be/0TD96VTf0Xs?t=2365" target="_blank">https://youtu.be/0TD96VTf0Xs?t=2365</a>
 “Editor’s Choice” - Apple, the Mac App Store
 "The Best Package Tracking App for iOS and macOS” - Wirecutter
 “5 of the best package tracking apps for iOS” - cnet
