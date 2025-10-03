@@ -39,7 +39,7 @@ Business model:
 Free to use with limited features; to track more than 3 deliveries or to activate push notifications customers are offered a subscription ($5 per year).
 
 Accolades:  
-- Short demo by Craig Federighi in WWDC 2021 Keynote ([https://youtu.be/0TD96VTf0Xs?t=2365](https://youtu.be/0TD96VTf0Xs?t=2365))
+- Short demo by Craig Federighi in WWDC 2021 Keynote - [https://youtu.be/0TD96VTf0Xs?t=2365](https://youtu.be/0TD96VTf0Xs?t=2365)
 - “Editor’s Choice” - Apple, the Mac App Store
 - "The Best Package Tracking App for iOS and macOS” - Wirecutter
 - “5 of the best package tracking apps for iOS” - cnet
