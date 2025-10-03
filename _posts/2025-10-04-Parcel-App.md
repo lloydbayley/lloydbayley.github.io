@@ -57,4 +57,4 @@ Contact Email: [ivan.pavlov@me.com](mailto:ivan.pavlov@me.com)
 
 Mastodon: [@parcel](https://mastodon.social/@parcel){:target="_blank"}
 
-Support Email: [support@parcelapp.net}(support@parcelapp.net?subject=Parcel%20Support)
+Support Email: [support@parcelapp.net](support@parcelapp.net?subject=Parcel%20Support)
