@@ -88,3 +88,13 @@ Now, you can switch on "Shake mouse pointer to locate".
 
 Also, just below that, you can also set the pointer size if the normal pointer is too small.
 
+## Shown Battery Percentage
+
+This is handy to see the battery percentage at a glance for your MacBook but can be tricky to find.
+
+In Settings, find Menu Items in the left hand column.
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Battery Percentage 1.png)
+
+Then on the right, click on "Battery Options" beside the Battery option on the right.
+In there, you'll find the option to "Show Percentage.
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Battery Percentage 2.png)
