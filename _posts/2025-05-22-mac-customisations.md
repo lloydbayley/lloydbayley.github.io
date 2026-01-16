@@ -21,6 +21,7 @@ There, you can switch on Tap To Click
 
 This is also the screen where you can set the secondary-click or "right-click" to tap/click with two fingers. Also, a handy thing. You cn find this directly above the Tap To Click option
 
+---
 ## Dock Magnification
 
 This is not for everyone but I've found that having magnification turned on for the dock at the bottom just gives a better indication of what app I'm about to click on. This is completely a personal preference and you will either love it or hate it.
@@ -29,6 +30,7 @@ In Settings, scroll down on the left-hand menu, select Desktop & Dock. On the ri
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Dock Magnification.png)
 
+---
 ## Quick Dictation "Hotkey"
 
  This is a nice feature to have when you get sick of typing etc. Double-Tap the Fn key and away you go! (You will need to be in a place where you can type at an insertion-point, of course.)
@@ -37,6 +39,7 @@ In Settings, scroll down on the left-hand menu, select Keyboard. In the right-ha
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Double-Tap Fn for Dictation.png)
 
+---
 ## Control-Zoom
 
 Good for when your eyesight is not quite what it was or if you need to zoom in on something where it won't let you because the website thinks it knows best or if pinch to zoom won't do it.
@@ -53,6 +56,7 @@ Next, in that right-hand pane, make sure "Use scroll gesture with modifier keys 
 
 You can also fiddle around with the Zoom Style. There are a few different options and you will soon find the one that you like.
 
+--
 ## Three-Finger Drag (Touchpad)
 
 Rather than having to tap/click and hold to drag, I have another feature turned on called Three-Finger Drag. It's very handy to be able to just move windows/text by placing three fingers on the touchpad.
@@ -69,7 +73,7 @@ Turn on the "Use trackpad for dragging" option and then you can change the Dragg
 
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/TFD3.png)
 
-
+---
 ## Shake To Locate
 
 This is a great feature to have, not just for the elderly or people with eyesight problems.
@@ -88,6 +92,7 @@ Now, you can switch on "Shake mouse pointer to locate".
 
 Also, just below that, you can also set the pointer size if the normal pointer is too small.
 
+---
 ## Show Battery Percentage
 
 This is handy to see the battery percentage at a glance for your MacBook but can be tricky to find.
@@ -98,3 +103,15 @@ In Settings, find Menu Items in the left hand column.
 Then on the right, click on "Battery Options" beside the Battery option on the right.
 In there, you'll find the option to "Show Percentage.
 ![Image]({{ site.baseurl }}/assets/images/MacCustom/Battery Percentage 2.png)
+
+---
+## Show Time With Seconds
+
+Another tricky to find tweak can be displaying the time with the seconds on the Menu Bar.
+
+In Settings, find Menu Items in the left hand column.
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Clock Seconds 1.png)
+
+Then on the right, click on "Clock Options" beside the Clock option on the right.
+In there, click on "Display the time with seconds"
+![Image]({{ site.baseurl }}/assets/images/MacCustom/Clock Seconds 2.png)
