@@ -88,7 +88,7 @@ Now, you can switch on "Shake mouse pointer to locate".
 
 Also, just below that, you can also set the pointer size if the normal pointer is too small.
 
-## Shown Battery Percentage
+## Show Battery Percentage
 
 This is handy to see the battery percentage at a glance for your MacBook but can be tricky to find.
 
