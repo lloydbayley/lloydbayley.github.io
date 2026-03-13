@@ -6,7 +6,7 @@ order: 4
 
 Hello!
 
-I'm Lloyd. I'm a bit of an inventor and engineer.
+I'm Lloyd. I'm a bit of an inventor, engineer and HomeLab enthusiast.
 After a long career in IT and now winding down into retirement, I'm now finding ways to create magic.
 
 If it can be automated, I want to do it.
