@@ -23,7 +23,7 @@ I also install a lot of them in ProxMox from the scripts here: <a href="https://
 - <a href="https://www.portainer.io/" target="_blank">Portainer CE</a>
 - <a href="https://nodered.org/" target="_blank">Node-Red</a>
 - <a href="https://goauthentik.io/" target="_blank">Authentik</a>
-- <a href="https://mosquitto.org/" target="_blank">MQTT</a>
+- <a href="https://mosquitto.org/" target="_blank">MQTT Broker</a>
 - <a href="https://n8n.io/" target="_blank">n8n</a>
 - <a href="https://www.ansible.com/" target="_blank">Ansible</a>
 - <a href="https://semaphoreui.com/" target="_blank">Ansible Semaphore UI</a>
