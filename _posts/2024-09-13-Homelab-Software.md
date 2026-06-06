@@ -23,6 +23,7 @@ They are in no particular order.
 - <a href="https://grafana.com/get/?tab=self-managed" target="_blank">Grafana</a>
 - <a href="https://www.scrypted.app/" target="_blank">Scrypted</a>
 - <a href="https://changedetection.io/" target="_blank">ChangeDetection</a>
+- <a href="https://www.tubearchivist.com/" target="_blank">TubeArchivist</a>
 - <a href="https://websvnphp.github.io/" target="_blank">WebSVN</a>
 - <a href="https://phpsysinfo.github.io/phpsysinfo/" target="_blank">PHPSysinfo</a>
 - <a href="https://www.dokuwiki.org/dokuwiki" target="_blank">Dokuwiki</a>
