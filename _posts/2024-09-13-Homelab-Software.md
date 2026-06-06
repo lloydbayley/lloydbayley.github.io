@@ -10,7 +10,7 @@ I have acquired these over a number of years and I use most of them on a daily (
 Most of the services are self-hosted in Virtual Machines in Proxmox, spread over a primary NUC, a secondary NUC and a development NUC. The FreePBX install has it's own, dedicated NUC.
 They are in no particular order.
 
-I also install a lot of them in ProsMox from the scripts here: <a href="https://community-scripts.org/" target="_blank">Community Scripts</a>
+I also install a lot of them in ProxMox from the scripts here: <a href="https://community-scripts.org/" target="_blank">Community Scripts</a>
 
 
 - <a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a>
