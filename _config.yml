@@ -122,7 +122,8 @@ comments:
     repo: lloydbayley/lloydbayley.github.io # <gh-username>/<repo>
     repo_id: R_kgDOMwxeRQ
     category: Comments
-    category_id: DIC_kwDOMwxeRc4CkuUG
+    #category_id: DIC_kwDOMwxeRc4CkuUG
+    category_id: DIC_kwDOMwxeRc4CkyAQ
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
